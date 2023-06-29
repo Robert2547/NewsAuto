@@ -2,7 +2,7 @@ from sys import argv
 from urllib import request
 
 
-API_KEY = 'ad9e0be7392d43fe861062f4beb9b640' # API key
+API_KEY =  # API key
 
 URL = ('https://newsapi.org/v2/top-headlines?') # URL for API
 
